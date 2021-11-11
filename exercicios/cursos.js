@@ -3,7 +3,7 @@ let cursos_idiomas = [
     {nome:"Espanhol", preco:1200, carga_horaria:180},
     {nome:"Russo", preco:1600, carga_horaria:300},
     {nome:"Francês", preco:4500, carga_horaria:210},
-    {nome:"Alemão", preco:1500, carga_horaria:280}
+    {nome:"Russo", preco:1500, carga_horaria:280}
 
 
 ];
